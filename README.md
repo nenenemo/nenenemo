@@ -1,6 +1,6 @@
 ### web front-end engineer. 👋
 
-HTML / CSS / JavaScript / TypeScript /React / Tailwind CSS
+HTML / CSS / JavaScript / TypeScript / React / Tailwind CSS
 
 
 
