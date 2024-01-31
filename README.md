@@ -1,5 +1,4 @@
-### 2022年8月から都内の会社でエンジニアとして働いています。 AWS / React / Angular
-
+### https://zenn.dev/nenenemo
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats-reflect-private-46qy.vercel.app/api/?username=nenenemo" />
   <!-- publicのみ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenenemo" /> -->
